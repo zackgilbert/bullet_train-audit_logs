@@ -4,17 +4,12 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "bullet_train-audit_logs"
+gem "bullet_train-audit_logs", git: "https://github.com/bullet-train-pro/bullet_train-audit_logs.git"
 ```
 
 And then execute:
 ```bash
 $ bundle
-```
-
-Or install it yourself as:
-```bash
-$ gem install bullet_train-audit_logs
 ```
 
 Run the installation rake task
